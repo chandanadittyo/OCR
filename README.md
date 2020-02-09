@@ -7,7 +7,7 @@ Optical Character recognition with python
 - OCR should be install on your system
 
 ### OCR Download Link (For Windows user)
-   <a href="https://github.com/UB-Mannheim/tesseract/wiki">
+ <a href="https://github.com/UB-Mannheim/tesseract/wiki">Click Here</a>
 
 ### What steps you have to follow??
 - Download my repository 
